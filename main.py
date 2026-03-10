@@ -15,8 +15,8 @@ import urllib.parse
 
 # Load environment variables
 load_dotenv()
-IVASMS_EMAIL = os.getenv("IVASMS_EMAIL")
-IVASMS_PASSWORD = os.getenv("IVASMS_PASSWORD")
+IVASMS_EMAIL = os.getenv("loverspubgking@gmail.com")
+IVASMS_PASSWORD = os.getenv("V2p7JkC.TiJ+9mY")
 BOT_TOKEN = os.getenv("BOT_TOKEN")
 CHAT_ID = os.getenv("CHAT_ID")
 
