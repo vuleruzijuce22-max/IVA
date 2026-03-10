@@ -17,7 +17,7 @@ import urllib.parse
 load_dotenv()
 IVASMS_EMAIL = os.getenv("loverspubgking@gmail.com")
 IVASMS_PASSWORD = os.getenv("V2p7JkC.TiJ+9mY")
-BOT_TOKEN = os.getenv("BOT_TOKEN")
+BOT_TOKEN = os.getenv("8580977610:AAEEgdR_ol-fb1x91pksjRDSUzYmozb7xNs")
 CHAT_ID = os.getenv("CHAT_ID")
 
 # Common headers
